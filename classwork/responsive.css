@@ -100,7 +100,7 @@ body {
     }
 } */
 
-@media screen and (min-width: 500px) and (max-width: 600px) {
+@media screen and (min-width: 400px) and (max-width: 600px) {
     .col-s1 {
         width: 8.33%
     }
@@ -150,7 +150,7 @@ body {
     }
 }
 
-@media screen and (min-width: 600px) and (max-width: 1000px) {
+@media screen and (min-width: 1000px) and (max-width: 1100px) {
     .col-m1 {
         width: 8.33%
     }
