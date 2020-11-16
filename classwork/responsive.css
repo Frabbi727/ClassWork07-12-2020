@@ -93,7 +93,7 @@ body {
 
 /* ************* Responsive Start ****************** */
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:450px) {
     [class*='col-'] {
         width: 100%;
     }
@@ -102,7 +102,7 @@ body {
     }
 }
 
-@media screen and (min-width:500px) and (max-width:600px) {
+@media screen and (min-width:500px) and (max-width:1000px) {
     .col-s1 {
         width: 8.33%
     }
@@ -152,7 +152,7 @@ body {
     }
 }
 
-@media screen and (min-width:600px) and (max-width:1100px) {
+@media screen and (min-width:1000px) and (max-width:1200px) {
     .col-m1 {
         width: 8.33%
     }
